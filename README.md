@@ -50,8 +50,8 @@ Hi, I'm a learner at the **ALX Software Engineering Program** specializing in **
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=@goShell3&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=@goShell3&theme=radical" alt="Streak stats" />
 </p>
 
 ---
